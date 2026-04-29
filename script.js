@@ -1,3 +1,3 @@
 function mostraMessaggio() {
-    alert("Scrivimi a: email@esempio.com");
+    alert("Scrivimi: nuovospazio2@gmail.com");
 }
